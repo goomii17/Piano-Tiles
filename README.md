@@ -1,5 +1,5 @@
-*Piano Tiles*
-Piano Tiles game in Pygame
+# Piano Tiles
+## Piano Tiles game in Pygame
 
 To run:
 > python3 piano.py <mode>
@@ -9,3 +9,5 @@ Modes:
 - normal
 - hard
 - speed
+ 
+ Creation Date: 2021-10
